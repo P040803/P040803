@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pavitra</h1>
+<h1 align="center">Hi 👋, I'm Pavitra Chavda</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p040803&label=Profile%20views&color=0e75b6&style=flat" alt="p040803" /> </p>
 
 - 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
-- 🌱 I’m currently learning **python for data science and full stack web development**
+- 🌱 I’m currently learning **python for data science and full stack development**
 
 - 📫 How to reach me **pavitrachavda97@gmail.com**
 
