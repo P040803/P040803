@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pavitra Chavda</h1>
+<h1 align="center">Hi 👋, I'm Pavitra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavitrachavda97&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrachavda97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavitrachavda97" alt="pavitrachavda97" /></a> </p>
-
 - 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
 - 🌱 I’m currently learning **python for data science and full stack web development**
+
+- 👨‍💻 All of my projects are available at [https://pavitrachavda.netlify.app/](https://pavitrachavda.netlify.app/)
 
 - 📫 How to reach me **pavitrachavda97@gmail.com**
 
