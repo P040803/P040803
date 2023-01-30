@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
-- 🌱 I’m currently learning **python for data science and full stack web development**
+- 🌱 I’m currently learning **full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://pavitrachavda.netlify.app/](https://pavitrachavda.netlify.app/)
 
