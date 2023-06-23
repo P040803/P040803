@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavitrachavda97" alt="pavitrachavda97" /></a> </p>
 
-- 🔭 I’m currently working on **improving my Problem Solving Skills. **
+- 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
 - 🌱 I’m currently learning **full stack web development**
 
